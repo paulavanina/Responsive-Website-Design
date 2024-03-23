@@ -1,1 +1,3 @@
 # Responsive-Website-Design
+
+The “Responsive Website Design” project showcases proficiency in creating a modern and visually appealing website using HTML, CSS, jQuery, and Google Fonts. It adheres to the HTML5 standard, ensuring compatibility with modern web browsers. Additionally, it incorporates custom fonts from the Google Fonts API, adding a unique typographic style to the webpage. The project also features a responsive image slider, implemented with the LightSlider plugin, which further enhances user engagement across different devices. Featuring a clean layout, intuitive navigation, and elegant styling, the website serves as a practical demonstration of fundamental web development skills.
